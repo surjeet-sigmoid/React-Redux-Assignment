@@ -1,8 +1,8 @@
 # React-Redux-Assignment
 
-Hosted [Website Link](https://surjeet-dynamic-react-redux-form-0.netlify.app/) for :[API](https://run.mocky.io/v3/a55c4590-c635-49af-a01f-7ee2e6a85669): https://surjeet-dynamic-react-redux-form-0.netlify.app
+Hosted [Website Link](https://surjeet-dynamic-react-redux-form-0.netlify.app/) for [API](https://run.mocky.io/v3/a55c4590-c635-49af-a01f-7ee2e6a85669): https://surjeet-dynamic-react-redux-form-0.netlify.app
 
-Hosted [Website Link](https://surjeet-dynamic-react-redux-form.netlify.app/) for :[API](https://run.mocky.io/v3/7ec8da10-b0ee-4016-86a0-100925968a0c): https://surjeet-dynamic-react-redux-form.netlify.app
+Hosted [Website Link](https://surjeet-dynamic-react-redux-form.netlify.app/) for [API](https://run.mocky.io/v3/7ec8da10-b0ee-4016-86a0-100925968a0c): https://surjeet-dynamic-react-redux-form.netlify.app
 
 Steps to run the code:
 
