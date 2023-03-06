@@ -9,6 +9,7 @@ lerna-debug.log*
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
+
 # Runtime data
 pids
 *.pid
@@ -41,6 +42,7 @@ build/Release
 node_modules/
 jspm_packages/
 
+react-dynamic-form/node_modules
 # TypeScript v1 declaration files
 typings/
 
